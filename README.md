@@ -1,2 +1,2 @@
-# nagafruit
-Project Laraver Point
+# dragon-fruit
+Project Laravel Point
